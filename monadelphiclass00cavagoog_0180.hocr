@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monadelphiclass00cavagoog_0180.png"; bbox 0 0 1123 1465; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 104 718 121">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 104 718 121">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 104 718 121; baseline 0.01 -3"><span class='ocrx_word' id='word_1_1' title='bbox 426 108 428 111; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 451 104 571 120; x_wconf 66' lang='lat' dir='ltr'>GonnorssA</span> <span class='ocrx_word' id='word_1_3' title='bbox 581 106 718 121; x_wconf 77' lang='lat' dir='ltr'>PUBESCENS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 958 116 1055 130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 958 116 1055 130">
+     <span class='ocr_line' id='line_1_2' title="bbox 958 116 1055 130; baseline 0.01 -1"><span class='ocrx_word' id='word_1_4' title='bbox 958 116 988 129; x_wconf 68' lang='lat' dir='ltr'>nb.</span> <span class='ocrx_word' id='word_1_5' title='bbox 998 117 1055 130; x_wconf 77' lang='lat' dir='ltr'>eLxu.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 119 125 1057 1359">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 119 125 1057 1359">
+     <span class='ocr_line' id='line_1_3' title="bbox 119 125 1057 1359; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 119 125 1057 1359; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1038 447 1046 1352">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1038 447 1046 1352">
+     <span class='ocr_line' id='line_1_4' title="bbox 1038 447 1046 1352; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1038 447 1046 1352; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 118 1357 1044 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 118 1357 1044 1376">
+     <span class='ocr_line' id='line_1_5' title="bbox 118 1357 1044 1376; baseline 0.01 -6"><span class='ocrx_word' id='word_1_8' title='bbox 118 1359 168 1372; x_wconf 48' lang='lat'>114.-</span> <span class='ocrx_word' id='word_1_9' title='bbox 168 1357 181 1373; x_wconf 55' lang='lat'><em>...⁷</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 181 1363 235 1374; x_wconf 46' lang='lat' dir='ltr'>aava,</span> <span class='ocrx_word' id='word_1_11' title='bbox 970 1361 1044 1376; x_wconf 49' lang='lat' dir='ltr'>‘A‘WM&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
